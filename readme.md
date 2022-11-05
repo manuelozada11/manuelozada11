@@ -1,6 +1,6 @@
 <p align="center" width="300" >
-    <p>Hey there👋</p>
-    <h3>I'm Manuel and I work as a Full-Stack dev👨‍💻</h3>
+    <p align="center">Hey there👋</p>
+    <h3 align="center">I'm Manuel and I work as a Full-Stack dev👨‍💻</h3>
 </p>
 
 ## About me
